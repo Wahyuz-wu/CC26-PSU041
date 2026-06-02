@@ -18,7 +18,7 @@ Proyek ini dibangun menggunakan teknologi modern sesuai dengan dokumen perencana
 **Data Science & AI Engineer:**
 - Python, Pandas, Matplotlib, Seaborn (Preprocessing, EDA, Feature Engineering)
 - TensorFlow & Keras (Model Deep Learning CNN-LSTM)
-- FastAPI (REST API Model Serving)
+- FastAPI (REST API untuk serving model)
 - Streamlit (Dashboard Analisis Interaktif)
 
 **Full-Stack Web Developer:**
