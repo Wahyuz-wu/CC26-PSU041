@@ -1,0 +1,25 @@
+{
+  "model_name": "Foreca_CNN_LSTM",
+  "version": "1.0.0",
+  "lookback": 30,
+  "horizon": 7,
+  "n_features": 12,
+  "feature_columns": [
+    "Total",
+    "Jumlah_Order",
+    "Transaksi_Count",
+    "Unique_Produk",
+    "Hari_Ke",
+    "y",
+    "lag_1",
+    "lag_7",
+    "roll7_mean",
+    "roll7_std",
+    "roll14_mean",
+    "is_zero_day"
+  ],
+  "trained_at": "2026-05-17T08:40:34.558166",
+  "mae_scaled": 0.029631593275584123,
+  "mae_rupiah": 3722839.2909663864,
+  "rmse_rupiah": 5171270.662644506
+}
