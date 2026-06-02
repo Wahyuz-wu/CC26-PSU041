@@ -32,7 +32,7 @@ Proyek ini dibangun menggunakan teknologi modern sesuai dengan dokumen perencana
 Proyek ini dikembangkan secara kolaboratif untuk **Coding Camp 2026 powered by DBS Foundation** oleh:
 
 **Data Scientist:**
-- Teddy Ramadhan (CDCC929D6Y0405)
+- Teddy Ramadhan(CDCC929D6Y0405)
 - Wahyu (CDCC153D6Y1270) 
 
 **AI Engineer:**
