@@ -33,7 +33,7 @@ Proyek ini dikembangkan secara kolaboratif untuk **Coding Camp 2026 powered by D
 
 **Data Scientist:**
 - Teddy Ramadhan (CDCC929D6Y0405)
-- Wahyu (CDCC153D6Y1270)
+- Wahyu (CDCC153D6Y1270) 
 
 **AI Engineer:**
 - Indra Sugara (CACC252D6Y2063)
