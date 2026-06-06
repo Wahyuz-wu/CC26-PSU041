@@ -27,6 +27,7 @@ Proyek ini dibangun menggunakan teknologi modern sesuai dengan dokumen perencana
 - Express & Node.js (Backend API)
 - Supabase (Cloud Backend: Database Postgres, Auth, API, Storage)
 
+
 ## 👥 Tim Pengembang (CC26-PSU041)
 
 Proyek ini dikembangkan secara kolaboratif untuk **Coding Camp 2026 powered by DBS Foundation** oleh:
